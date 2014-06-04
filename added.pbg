@@ -1,0 +1,7 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "added.pbl" "";
+@end;
+@begin Objects
+ "d_temp.srd" "added.pbl";
+@end;
