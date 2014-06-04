@@ -3,6 +3,7 @@ Save Format v3.0(19990112)
  "test_app.pbl" "";
 @end;
 @begin Objects
+ "f_b2.srf" "test_app.pbl";
  "w_main.srw" "test_app.pbl";
  "test_app.sra" "test_app.pbl";
 @end;
